@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    tools:context=".CatFactFragment">
+
+    <TextView
+        android:id="@+id/lengthText"
+        android:background="@color/black"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/factText"
+        android:padding="10dp"
+        android:background="@color/cardview_dark_background"
+        android:layout_width="match_parent"
+        android:textColor="@color/design_default_color_secondary"
+        android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment" />
+
+
+</LinearLayout>

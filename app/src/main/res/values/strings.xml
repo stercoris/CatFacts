@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cats Facts</string>
+    <string name="hello_blank_fragment">loading…</string>
+</resources>
