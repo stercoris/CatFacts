@@ -6,4 +6,5 @@ Test project for introduction in kotlin/java in android infrastructure:
 - "fuel" library
 - "gson" library
 <hr>
-![appscreenshot](/img/app_screenshot.png)
+
+![appscreenshot](./img/app_screenshot.png)
